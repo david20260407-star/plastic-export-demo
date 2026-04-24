@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 90" width="320" height="90">
+  <defs>
+    <linearGradient id="birdGradientWhite" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e0e8f0;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- TrustWing 文字 (白色) -->
+  <text x="110" y="50" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#ffffff" letter-spacing="-0.5">TrustWing</text>
+  
+  <!-- 信之翼 小字 (白色) -->
+  <text x="110" y="65" font-family="'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="10" fill="#e0e0e0" letter-spacing="2">信之翼</text>
+  
+  <!-- Trust Us, Fly Together 斜体标语 (白色) -->
+  <text x="110" y="80" font-family="Georgia, 'Times New Roman', serif" font-size="11" font-style="italic" fill="#c0c0c0" letter-spacing="0.5">Trust Us, Fly Together</text>
+  
+  <!-- 大雁群 - 向左飞行 (白色版本，放在文字后面) -->
+  <g id="birds-white">
+    <!-- 领头雁 (向左) -->
+    <path d="M 95 48 L 77 41 L 81 49 L 73 46 L 87 55 L 97 51 Z" fill="#ffffff"/>
+    
+    <!-- 左翼雁 1 (向左) -->
+    <path d="M 70 35 L 57 30 L 61 37 L 54 34 L 65 41 L 72 38 Z" fill="#e8f0f8"/>
+    
+    <!-- 右翼雁 1 (向左) -->
+    <path d="M 67 55 L 54 50 L 58 57 L 51 54 L 62 61 L 69 58 Z" fill="#e8f0f8"/>
+    
+    <!-- 左翼雁 2 (向左) -->
+    <path d="M 47 28 L 36 23 L 40 30 L 33 27 L 43 33 L 49 30 Z" fill="#d0e0f0"/>
+    
+    <!-- 右翼雁 2 (向左) -->
+    <path d="M 44 61 L 33 56 L 37 63 L 30 60 L 40 66 L 46 63 Z" fill="#d0e0f0"/>
+    
+    <!-- 左翼雁 3 (向左) -->
+    <path d="M 27 23 L 18 19 L 21 25 L 16 22 L 24 28 L 29 25 Z" fill="#b8d0e8"/>
+    
+    <!-- 右翼雁 3 (向左) -->
+    <path d="M 24 66 L 14 61 L 18 68 L 11 65 L 21 71 L 26 68 Z" fill="#b8d0e8"/>
+  </g>
+</svg>

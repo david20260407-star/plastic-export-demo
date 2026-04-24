@@ -1,0 +1,167 @@
+[
+  {
+    "rank": 1,
+    "name": "Stretch Wrap Film / Cling Film",
+    "nameZh": "拉伸缠绕膜/保鲜膜",
+    "category": "Finished Product",
+    "description": "High-clarity LLDPE/LDPE films used for pallet wrapping, food preservation and industrial packaging. Available in machine-grade and hand-grade rolls.",
+    "specs": "Thickness: 8–35 micron\nWidth: 250–2000mm (customizable)\nElongation at Break: >300%\nColors: Clear, black, blue\nMOQ: 1,000kg",
+    "applications": "Logistics pallet wrapping, fresh food packaging, industrial dust cover",
+    "priceHint": "From $1.60 / kg (FOB)",
+    "imageKeywords": "stretch wrap film roll, clear LLDPE packaging film, pallet wrap plastic"
+  },
+  {
+    "rank": 2,
+    "name": "PET Preforms & Bottles",
+    "nameZh": "PET瓶坯及饮料瓶",
+    "category": "Finished Product",
+    "description": "Crystal-clear, food-grade PET preforms and bottles for beverages, cosmetics and condiments. Compatible with standard 28mm PCO1810 caps.",
+    "specs": "Neck Finish: 28mm PCO 1810 / 38mm\nWeight: 10g–80g (customizable)\nVolume: 250ml–5L\nTransparency: >90%\nMOQ: 100,000 pcs",
+    "applications": "Water, soda, juice, edible oil, shampoo, cleaning agents",
+    "priceHint": "From $0.015 / piece",
+    "imageKeywords": "PET preform 28mm, clear plastic bottle, beverage bottle packaging"
+  },
+  {
+    "rank": 3,
+    "name": "Plastic Pallets",
+    "nameZh": "塑料托盘",
+    "category": "Finished Product",
+    "description": "Heavy-duty recyclable HDPE/PP pallets for warehousing, logistics and export shipping. Resistant to moisture, chemicals and insects.",
+    "specs": "Size: 1200x1000x150mm (standard)\nStatic Load: 1,500–6,000kg\nDynamic Load: 500–2,000kg\nColors: Blue, black, grey\nMOQ: 100 pcs",
+    "applications": "Warehousing, racking, export shipping, pharmaceutical storage",
+    "priceHint": "From $18 / piece",
+    "imageKeywords": "blue plastic pallet, HDPE shipping pallet, stackable warehouse pallet"
+  },
+  {
+    "rank": 4,
+    "name": "PVC Pipes & Fittings",
+    "nameZh": "PVC管材及管件",
+    "category": "Finished Product",
+    "description": "Durable, corrosion-resistant PVC pipes for drainage, water supply and electrical conduits. Joined by solvent cement or rubber-ring joints.",
+    "specs": "Diameters: 20mm–400mm\nPressure Rating: PN6 / PN10 / PN16\nLength: 4m or 6m standard\nColors: White, grey, orange\nMOQ: 1,000m",
+    "applications": "Drainage, irrigation, water supply, cable protection, construction",
+    "priceHint": "From $0.80 / meter",
+    "imageKeywords": "white PVC pipe, plastic drainage pipe, UPVC plumbing fittings"
+  },
+  {
+    "rank": 5,
+    "name": "HDPE Jerry Cans & Containers",
+    "nameZh": "HDPE塑料桶及容器",
+    "category": "Finished Product",
+    "description": "Chemical-resistant HDPE containers for liquids, lubricants and hazardous goods. UN-certified options available for dangerous cargo.",
+    "specs": "Capacity: 1L–30L\nWall Thickness: 1.2–3mm\nClosure: 38mm / 45mm / 61mm\nColors: Natural, blue, black\nMOQ: 2,000 pcs",
+    "applications": "Lubricants, agrochemicals, food oils, cleaning chemicals, solvents",
+    "priceHint": "From $1.20 / piece",
+    "imageKeywords": "HDPE jerry can, plastic drum container, chemical resistant bottle"
+  },
+  {
+    "rank": 6,
+    "name": "Plastic Crates & Folding Boxes",
+    "nameZh": "塑料周转箱及折叠箱",
+    "category": "Finished Product",
+    "description": "Stackable and foldable PP/HDPE crates for agriculture, logistics and manufacturing. Ventilated or solid-wall designs available.",
+    "specs": "Sizes: 400x300x150mm to 600x400x400mm\nLoad Capacity: 15–50kg stacking\nColors: Blue, green, red, grey\nMOQ: 500 pcs",
+    "applications": "Fruit/vegetable transport, factory parts storage, retail distribution",
+    "priceHint": "From $4 / piece",
+    "imageKeywords": "blue plastic crate, stackable logistics box, folding turnover box"
+  },
+  {
+    "rank": 7,
+    "name": "Agricultural Mulch / Greenhouse Films",
+    "nameZh": "农用地膜/大棚膜",
+    "category": "Finished Product",
+    "description": "UV-stabilized PE films for weed control, soil moisture retention and greenhouse cultivation. Available in clear, black, and reflective silver.",
+    "specs": "Thickness: 8–200 micron\nWidths: 1m–14m\nUV Stabilization: 6–36 months\nColors: Clear, black, silver\nMOQ: 2,000kg",
+    "applications": "Greenhouses, mulching, silage covering, tunnel farming",
+    "priceHint": "From $1.40 / kg",
+    "imageKeywords": "greenhouse plastic film, agricultural mulch film, UV stabilized PE film"
+  },
+  {
+    "rank": 8,
+    "name": "EPS Foam Packaging / Insulation Boards",
+    "nameZh": "EPS泡沫包装/保温板",
+    "category": "Finished Product",
+    "description": "Lightweight expanded polystyrene blocks and custom-molded cushioning for fragile goods and thermal insulation in construction.",
+    "specs": "Density: 10–30 kg/m³\nThermal Conductivity: 0.030–0.040 W/(m·K)\nCompressive Strength: 50–300 kPa\nColors: White\nMOQ: 500 pcs / 20m³ blocks",
+    "applications": "Electronics cushioning, fish box insulation, building insulation, decorative cornices",
+    "priceHint": "From $12 / m³",
+    "imageKeywords": "white EPS foam block, polystyrene packaging foam, thermal insulation board"
+  },
+  {
+    "rank": 9,
+    "name": "Automotive Injection Molded Parts",
+    "nameZh": "汽车注塑件",
+    "category": "Finished Product",
+    "description": "OEM precision molded components for automotive interiors and exteriors. Tooling design and mass production services included.",
+    "specs": "Materials: PP, ABS, PA, PC\nTolerance: ±0.05mm\nSurface Finish: Textured / polished\nMOQ: 5,000 pcs",
+    "applications": "Bumpers, dashboards, door panels, lamp housings, air vents, trims",
+    "priceHint": "Quotation on request (tooling + unit price)",
+    "imageKeywords": "automotive plastic parts, injection molded bumper, car dashboard trim"
+  },
+  {
+    "rank": 10,
+    "name": "PVC Window Profiles & Doors",
+    "nameZh": "PVC门窗型材",
+    "category": "Finished Product",
+    "description": "Multi-chamber PVC extrusion profiles for energy-efficient windows and doors. Co-extruded with rubber seals and reinforcement galvanized steel.",
+    "specs": "Wall Thickness: 2.0–2.8mm\nChambers: 3, 4, 5, or 6\nColors: White, wood grain, grey\nLength: 6m standard\nMOQ: 3,000m",
+    "applications": "Residential windows, sliding doors, curtain walls, partitions",
+    "priceHint": "From $2.80 / meter",
+    "imageKeywords": "white UPVC window profile, plastic door frame, PVC extrusion profile"
+  },
+  {
+    "rank": 11,
+    "name": "Plastic Toys & Injection Parts",
+    "nameZh": "塑料玩具及注塑件",
+    "category": "Finished Product",
+    "description": "Custom injection molded toys and components using ABS, PP and HDPE. Compliant with EN 71 and ASTM F963 safety standards.",
+    "specs": "Materials: ABS, PP, HDPE\nTolerance: ±0.05–0.1mm\nSurface: Smooth, matte, textured\nMOQ: 5,000 pcs",
+    "applications": "Educational toys, promotional items, baby products, hobby models",
+    "priceHint": "From $0.30 / piece (mold cost separate)",
+    "imageKeywords": "colorful plastic toys, ABS injection molded parts, children plastic blocks"
+  },
+  {
+    "rank": 12,
+    "name": "Plastic Bags (T-Shirt / Garbage / Industrial)",
+    "nameZh": "塑料袋（背心袋/垃圾袋/工业袋）",
+    "category": "Finished Product",
+    "description": "High-volume LDPE/HDPE bags for retail, waste management and industrial use. Custom printing available.",
+    "specs": "Thickness: 8–80 micron\nSizes: Custom\nColors: White, black, blue, transparent\nPrinting: Up to 8 colors\nMOQ: 50,000 pcs",
+    "applications": "Supermarket bags, bin liners, packaging, construction debris",
+    "priceHint": "From $1.50 / kg",
+    "imageKeywords": "plastic shopping bags, garbage bags roll, printed PE bag"
+  },
+  {
+    "rank": 13,
+    "name": "Wire & Cable Insulation Compounds",
+    "nameZh": "电线电缆绝缘料",
+    "category": "Finished Product",
+    "description": "PVC, PE and XLPE compounds for wire insulation and cable sheathing. Flame-retardant and low-smoke zero-halogen options available.",
+    "specs": "Base: PVC / PE / XLPE\nHardness: Shore A 80A–95A\nTensile Strength: >15 MPa\nColors: Black, red, blue, yellow\nMOQ: 1,000kg",
+    "applications": "Building wires, automotive cables, power transmission, fiber optic sheathing",
+    "priceHint": "From $1.40 / kg",
+    "imageKeywords": "PVC cable compound pellets, wire insulation material, XLPE cable granules"
+  },
+  {
+    "rank": 14,
+    "name": "Food Containers & Takeaway Trays",
+    "nameZh": "食品容器及外卖餐盒",
+    "category": "Finished Product",
+    "description": "Disposable and reusable PP/PET food containers, bento boxes and compartment trays. Microwave-safe and freezer-safe options.",
+    "specs": "Materials: PP, PET, PS\nTemperature: -20°C to 120°C (PP)\nColors: Clear, black, white\nMOQ: 10,000 pcs",
+    "applications": "Fast food packaging, meal prep containers, supermarket fresh trays",
+    "priceHint": "From $0.04 / piece",
+    "imageKeywords": "plastic food container, disposable takeaway box, bento lunch box"
+  },
+  {
+    "rank": 15,
+    "name": "Medical Plastic Disposables",
+    "nameZh": "医用塑料一次性耗材",
+    "category": "Finished Product",
+    "description": "Sterilizable PP and PE medical articles manufactured in clean-room conditions. ISO 13485 and CE-marked options available.",
+    "specs": "Materials: PP, PE, PVC (medical grade)\nSterilization: EO / Gamma compatible\nPackaging: Blister or pouch\nMOQ: 50,000 pcs",
+    "applications": "Syringes, specimen cups, IV components, surgical trays, pipette tips",
+    "priceHint": "From $0.02 / piece",
+    "imageKeywords": "medical plastic syringe, disposable specimen cup, sterile plastic tray"
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "rank": 1,
+    "name": "High-Density Polyethylene (HDPE)",
+    "nameZh": "高密度聚乙烯",
+    "category": "Raw Material",
+    "description": "A versatile thermoplastic polymer known for its high strength-to-density ratio, excellent chemical resistance, and good impact resistance. Widely used for blow-molded containers and pipings.",
+    "specs": "Density: 0.93–0.97 g/cm³\nMelt Flow Index: 0.2–30 g/10min\nTensile Strength: 20–37 MPa\nOperating Temp: -50°C to 120°C\nPackaging: 25kg bags",
+    "applications": "Bottles, pipes, plastic lumber, toys, geomembranes, food containers",
+    "priceHint": "FOB Shanghai $1,150–1,450 / MT",
+    "imageKeywords": "HDPE plastic pellets, polyethylene resin granules, white polymer pellets"
+  },
+  {
+    "rank": 2,
+    "name": "Low-Density Polyethylene (LDPE)",
+    "nameZh": "低密度聚乙烯",
+    "category": "Raw Material",
+    "description": "A soft, flexible polymer with excellent processability, transparency and film-forming properties. Lower density and crystallinity compared to HDPE.",
+    "specs": "Density: 0.91–0.94 g/cm³\nMelt Flow Index: 0.3–50 g/10min\nTensile Strength: 8–30 MPa\nOperating Temp: -60°C to 80°C\nPackaging: 25kg bags",
+    "applications": "Film packaging, plastic bags, wire insulation, squeeze bottles, coatings",
+    "priceHint": "FOB Shanghai $1,100–1,350 / MT",
+    "imageKeywords": "LDPE transparent pellets, flexible polyethylene granules"
+  },
+  {
+    "rank": 3,
+    "name": "Linear Low-Density Polyethylene (LLDPE)",
+    "nameZh": "线性低密度聚乙烯",
+    "category": "Raw Material",
+    "description": "Combines the toughness of LDPE with higher tensile strength and puncture resistance. Major polymer for stretch films and heavy-duty packaging.",
+    "specs": "Density: 0.915–0.925 g/cm³\nMelt Flow Index: 0.5–30 g/10min\nTensile Strength: 20–35 MPa\nOperating Temp: -60°C to 90°C\nPackaging: 25kg bags",
+    "applications": "Stretch film, agricultural film, heavy-duty sacks, liners, tubing",
+    "priceHint": "FOB Shanghai $1,100–1,380 / MT",
+    "imageKeywords": "LLDPE pellets, linear polyethylene resin, packaging film material"
+  },
+  {
+    "rank": 4,
+    "name": "Polypropylene Homopolymer (PP-H)",
+    "nameZh": "均聚聚丙烯",
+    "category": "Raw Material",
+    "description": "A rigid, crystalline thermoplastic with excellent stiffness, chemical resistance, and heat resistance. One of the most widely produced plastics globally.",
+    "specs": "Density: 0.90–0.91 g/cm³\nMelt Flow Index: 3–50 g/10min\nTensile Strength: 30–40 MPa\nOperating Temp: -10°C to 130°C\nPackaging: 25kg bags",
+    "applications": "Packaging, automotive parts, textiles (non-woven), appliances, caps",
+    "priceHint": "FOB Shanghai $1,100–1,350 / MT",
+    "imageKeywords": "PP plastic pellets, polypropylene granules, white PP resin"
+  },
+  {
+    "rank": 5,
+    "name": "Polypropylene Copolymer (PP-C / PPR)",
+    "nameZh": "共聚聚丙烯",
+    "category": "Raw Material",
+    "description": "Offers improved impact resistance and flexibility compared to homopolymer PP, especially at low temperatures. Common in pipe and automotive applications.",
+    "specs": "Density: 0.89–0.91 g/cm³\nMelt Flow Index: 1–30 g/10min\nImpact Strength: High\nOperating Temp: -20°C to 120°C\nPackaging: 25kg bags",
+    "applications": "Pipes, automotive bumpers, containers, household goods, impact-resistant packaging",
+    "priceHint": "FOB Shanghai $1,150–1,400 / MT",
+    "imageKeywords": "PP copolymer pellets, impact resistant polypropylene, PPR resin"
+  },
+  {
+    "rank": 6,
+    "name": "Polyvinyl Chloride (PVC Resin)",
+    "nameZh": "聚氯乙烯树脂",
+    "category": "Raw Material",
+    "description": "A cost-effective, durable polymer with excellent flame retardancy and chemical resistance. Requires heat stabilizers for processing. Available in rigid and flexible grades.",
+    "specs": "Density: 1.35–1.45 g/cm³\nK-Value: 55–72 (suspension grade)\nTensile Strength: 40–55 MPa (rigid)\nOperating Temp: -15°C to 60°C\nPackaging: 25kg bags",
+    "applications": "Pipes, profiles, cables, flooring, window frames, medical tubing, films",
+    "priceHint": "FOB Shanghai $900–1,100 / MT",
+    "imageKeywords": "PVC resin powder, white PVC suspension powder, polyvinyl chloride granules"
+  },
+  {
+    "rank": 7,
+    "name": "Polyethylene Terephthalate (PET)",
+    "nameZh": "聚对苯二甲酸乙二醇酯",
+    "category": "Raw Material",
+    "description": "A strong, lightweight, transparent thermoplastic polymer with excellent barrier properties against gases and moisture. Widely used in beverage packaging and fibers.",
+    "specs": "Density: 1.33–1.38 g/cm³ (amorphous)\nIntrinsic Viscosity: 0.70–0.86 dL/g\nTensile Strength: 50–80 MPa\nOperating Temp: -40°C to 70°C\nPackaging: 1,100–1,250kg big bags or 25kg",
+    "applications": "Beverage bottles, food trays, fibers (polyester), films, engineering resins",
+    "priceHint": "FOB Shanghai $1,050–1,300 / MT",
+    "imageKeywords": "PET resin chips, transparent polyester pellets, bottle grade PET"
+  },
+  {
+    "rank": 8,
+    "name": "Polystyrene General Purpose (GPPS)",
+    "nameZh": "通用级聚苯乙烯",
+    "category": "Raw Material",
+    "description": "A rigid, transparent thermoplastic with excellent processability and dimensional stability. Low cost but relatively brittle. Often blended into HIPS or EPS.",
+    "specs": "Density: 1.04–1.05 g/cm³\nMelt Flow Index: 2–30 g/10min\nTensile Strength: 35–55 MPa\nOperating Temp: -20°C to 70°C\nPackaging: 25kg bags",
+    "applications": "Disposable cutlery, CD cases, food containers, toys, cosmetic packaging",
+    "priceHint": "FOB Shanghai $1,000–1,250 / MT",
+    "imageKeywords": "GPPS clear pellets, polystyrene granules transparent, crystal PS resin"
+  },
+  {
+    "rank": 9,
+    "name": "High Impact Polystyrene (HIPS)",
+    "nameZh": "高抗冲聚苯乙烯",
+    "category": "Raw Material",
+    "description": "Modified polystyrene with rubber content to improve impact resistance. Opaque but maintains good processability and printability.",
+    "specs": "Density: 1.03–1.06 g/cm³\nMelt Flow Index: 1–15 g/10min\nImpact Strength: Moderate to High\nOperating Temp: -30°C to 80°C\nPackaging: 25kg bags",
+    "applications": "Appliance housings, TV cabinets, refrigerator liners, toys, packaging trays",
+    "priceHint": "FOB Shanghai $1,050–1,300 / MT",
+    "imageKeywords": "HIPS white pellets, high impact polystyrene, opaque PS granules"
+  },
+  {
+    "rank": 10,
+    "name": "Acrylonitrile Butadiene Styrene (ABS)",
+    "nameZh": "丙烯腈-丁二烯-苯乙烯共聚物",
+    "category": "Raw Material",
+    "description": "An engineering thermoplastic combining strength, rigidity and excellent impact resistance. Known for its glossy surface finish and good electrical insulation.",
+    "specs": "Density: 1.03–1.07 g/cm³\nMelt Flow Index: 1–30 g/10min\nTensile Strength: 40–50 MPa\nOperating Temp: -40°C to 85°C\nPackaging: 25kg bags",
+    "applications": "Automotive interior parts, electronics housings, toys (LEGO), appliances, helmets",
+    "priceHint": "FOB Shanghai $1,200–1,550 / MT",
+    "imageKeywords": "ABS plastic pellets off-white, acrylonitrile butadiene styrene granules"
+  },
+  {
+    "rank": 11,
+    "name": "Polyamide 6 (PA6 / Nylon 6)",
+    "nameZh": "尼龙6",
+    "category": "Raw Material",
+    "description": "A high-performance engineering plastic with excellent abrasion resistance, toughness and self-lubricating properties. Absorbs moisture which affects dimensions.",
+    "specs": "Density: 1.12–1.14 g/cm³\nMelting Point: ~220°C\nTensile Strength: 70–85 MPa\nOperating Temp: -40°C to 120°C\nPackaging: 25kg bags",
+    "applications": "Gears, bearings, automotive parts, films, fibers, engineering components",
+    "priceHint": "FOB Shanghai $2,200–2,800 / MT",
+    "imageKeywords": "PA6 nylon pellets translucent, polyamide 6 granules engineering plastic"
+  },
+  {
+    "rank": 12,
+    "name": "Polycarbonate (PC)",
+    "nameZh": "聚碳酸酯",
+    "category": "Raw Material",
+    "description": "An amorphous engineering thermoplastic with outstanding impact strength, optical clarity and heat resistance. More expensive than commodity plastics.",
+    "specs": "Density: 1.20–1.22 g/cm³\nMelt Flow Index: 3–25 g/10min\nTensile Strength: 55–75 MPa\nOperating Temp: -40°C to 135°C\nPackaging: 25kg bags",
+    "applications": "Safety glasses, optical lenses, automotive headlamps, electronics, greenhouses, medical devices",
+    "priceHint": "FOB Shanghai $2,000–2,600 / MT",
+    "imageKeywords": "PC transparent pellets, polycarbonate resin clear, engineering plastic granules"
+  },
+  {
+    "rank": 13,
+    "name": "Polyoxymethylene (POM / Acetal)",
+    "nameZh": "聚甲醛",
+    "category": "Raw Material",
+    "description": "A crystalline engineering plastic known for high stiffness, low friction and excellent dimensional stability. Often used as a metal replacement in precision parts.",
+    "specs": "Density: 1.41–1.42 g/cm³\nMelting Point: ~165°C\nTensile Strength: 60–70 MPa\nOperating Temp: -40°C to 100°C\nPackaging: 25kg bags",
+    "applications": "Gears, bearings, conveyor belts, automotive fuel systems, pumps, valves, zippers",
+    "priceHint": "FOB Shanghai $2,100–2,700 / MT",
+    "imageKeywords": "POM acetal pellets white, polyoxymethylene granules engineering plastic"
+  },
+  {
+    "rank": 14,
+    "name": "Polyurethane (PU / TPU)",
+    "nameZh": "聚氨酯",
+    "category": "Raw Material",
+    "description": "A versatile polymer available as rigid foams, flexible foams, elastomers (TPU), coatings and adhesives. Excellent abrasion and tear resistance for elastomer grades.",
+    "specs": "Density: 1.10–1.25 g/cm³ (elastomer)\nHardness: Shore A 60A – Shore D 85D\nTensile Strength: 25–55 MPa\nOperating Temp: -40°C to 80°C\nPackaging: 25kg bags",
+    "applications": "Foam insulation, footwear soles, vehicle seats, hoses, wheels, coatings, adhesives",
+    "priceHint": "FOB Shanghai $2,500–3,500 / MT (TPU grade)",
+    "imageKeywords": "TPU pellets transparent amber, thermoplastic polyurethane granules, PU foam material"
+  },
+  {
+    "rank": 15,
+    "name": "Ethylene Vinyl Acetate (EVA)",
+    "nameZh": "乙烯-醋酸乙烯共聚物",
+    "category": "Raw Material",
+    "description": "A copolymer with varying vinyl acetate content. Soft, flexible, with excellent clarity, adhesion and low-temperature toughness. Common in foams and films.",
+    "specs": "Density: 0.92–0.95 g/cm³\nVA Content: 5%–40%\nMelt Flow Index: 0.5–150 g/10min\nOperating Temp: -60°C to 65°C\nPackaging: 25kg bags",
+    "applications": "Footwear soles, solar encapsulants, packaging films, toys, hot-melt adhesives, foams",
+    "priceHint": "FOB Shanghai $1,300–1,800 / MT",
+    "imageKeywords": "EVA pellets transparent, ethylene vinyl acetate granules, EVA foam material"
+  }
+]
